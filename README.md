@@ -43,7 +43,6 @@ This project is created **for learning purposes only**.
 - [SweetAlert2](https://sweetalert2.github.io/) – Alerts & modals
 - [Tailwind CSS](https://tailwindcss.com/) – Styling
 - [Font Awesome](https://fontawesome.com/) – Icons
-- [Axios](https://axios-http.com/) – API calls
 
 **Backend API:**
 - [Golang Contact Management RESTful API](https://github.com/jonathangunawan30/golang-contact-management-restful-api) – Data source
